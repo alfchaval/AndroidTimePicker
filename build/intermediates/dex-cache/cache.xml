@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3eca042013879ea11eb5acceac86e4b0b0bb5a36">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3b43b730d9225ae2ee9eec0dee245fabfc82114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45fd367ca8fc17e8070f6f9c7aff7bcf616ecb70">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb343ad8c664f0a97c0ba6b2463b8fa944071b83/classes.dex" />
+    </item>
+
+</items>

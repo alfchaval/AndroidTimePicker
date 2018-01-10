@@ -1,0 +1,7 @@
+#Sat Jan 14 18:55:26 CET 2017
+base.0=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb343ad8c664f0a97c0ba6b2463b8fa944071b83
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3b43b730d9225ae2ee9eec0dee245fabfc82114/classes.dex
+base.1=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3b43b730d9225ae2ee9eec0dee245fabfc82114
+file.0=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/AndroidTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb343ad8c664f0a97c0ba6b2463b8fa944071b83/classes.dex
